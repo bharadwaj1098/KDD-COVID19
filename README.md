@@ -1,5 +1,5 @@
 # Supervised-Learning-On-COVID19-Data
-We will be performing Supervised-Learning on the Covid19 datset to find, How death rate of each state in usa, varries with different features of each state. 
+We will be performing Supervised-Learning on the Covid19 dataset to find, How death rate of each state in usa, varries with different features of each state. 
 (such as GDP of the state, Available ICU beds, Average Temperature Of the State etc:-). We will be be working on state wise covid19 related data.
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring
@@ -8,7 +8,7 @@ respiratory disease, and cancer are more likely to develop serious illness.
 
 # Group members
 
-Rohit ALavala - 800952197
+Rohit Alavala - 800952197
 
 
 
