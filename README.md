@@ -64,7 +64,9 @@ While working on this project we are trying to predict the mortality rate for di
 
 # Resources
 https://www.kaggle.com/ady123/us-counties-covid19-dataset
+
 https://towardsdatascience.com/covid-19-outbreak-prediction-using-machine-learning-algorithm-ce5641bd55bf
+
 https://medium.com/@ageitgey/four-basic-data-science-lessons-illustrated-by-covid-19-data-7d94134a5b0e
 
 
