@@ -59,7 +59,7 @@ Rishant Dutt - 801104239
 
 # Research Question
 
-While working on this project we are trying to predict the mortality rate for different counties in each state of the United States of America based on median household income, unemployment rate, poverty rate, white alone %, black alone %, asian alone %, hispanic %
+While working on this project we are trying to predict the mortality rate for different counties in each state of the United States of America based on median household income, unemployment rate, poverty rate, white alone %, black alone %, asian alone %, hispanic %.
 
 
 # Resources
