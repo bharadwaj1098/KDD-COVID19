@@ -67,21 +67,21 @@ While working on this project we are trying to predict the mortality rate for di
 # CRISP-DM Process
 We have undergone these steps as a part of CRISP-DM:
 
-  ## Business Understanding
+## Business Understanding
+COVID-19 is an acute infectious respiratory disease caused by infection with the coronavirus subtype SARS-CoV-2, first detected in Wuhan, China, in December 2019. It is currently spreading worldwide and is considered a pandemic disease. In our project we are trying to predict the impact of various factors like median household income, unemployment rate, poverty rate, white alone %, black alone %, asian alone %, hispanic % affects on the mortality rate.
 
 
-
-  # Data Understanding Phase
+## Data Understanding Phase
 
 In this phase we are adding to the foundation of Business understanding. In this phase we have identified, collected and analysed the data which will help us to achieve goals.
 First, we have loaded the the data source(csv).We also identified the data format, number of records and field identities. The columns which are not useful in achieving the project goal are removed and data reduction is achieved.
 
-  # Data Preparation Phase
+## Data Preparation Phase
 
 In this phase we found out how clean is the data i.e how many null values are present in the data. We also looked for the duplicate data in the data source. 
 
-  # Modeling Phase
-  # Evaluation Phase
+## Modeling Phase
+## Evaluation Phase
 
 
 # Technologies/Libraries
