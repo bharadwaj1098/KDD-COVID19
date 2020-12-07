@@ -67,22 +67,21 @@ While working on this project we are trying to predict the mortality rate for di
 # CRISP-DM Process
 We have undergone these steps as a part of CRISP-DM:
 
-# Research Phase
+  ## Business Understanding
 
 
 
-# Data Understanding Phase
+  # Data Understanding Phase
 
 In this phase we are adding to the foundation of Business understanding. In this phase we have identified, collected and analysed the data which will help us to achieve goals.
 First, we have loaded the the data source(csv).We also identified the data format, number of records and field identities. The columns which are not useful in achieving the project goal are removed and data reduction is achieved.
 
-# Data Preparation Phase
+  # Data Preparation Phase
 
 In this phase we found out how clean is the data i.e how many null values are present in the data. We also looked for the duplicate data in the data source. 
 
-# Data Exploration
-# Modeling Phase
-# Evaluation Phase
+  # Modeling Phase
+  # Evaluation Phase
 
 
 # Technologies/Libraries
