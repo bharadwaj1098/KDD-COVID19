@@ -86,9 +86,13 @@ In this phase we found out how clean is the data i.e how many null values are pr
 
 # Technologies/Libraries
 python
+
 pandas, jupyter
+
 scikit-learn
+
 numpy
+
 seaborn
 
 # Resources
