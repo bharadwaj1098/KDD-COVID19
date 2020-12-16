@@ -83,6 +83,8 @@ For our modeling, we decided to go with 6 models and not rely on only one model.
 ## Evaluation Phase
 We used the coefficient of determination, R^2, of the predictions to score each prediction. The coefficient R^2 is defined as (1 - u/v), where u is the residual sum of squares ((y_true - y_pred) ** 2).sum() and v is the total sum of squares ((y_true - y_true.mean()) ** 2).sum(). The best possible score is 1.0 and it can be negative (because the model can be arbitrarily worse). A constant model that always predicts the expected value of y, disregarding the input features, would get a R^2 score of 0.0.
 
+https://github.com/bharadwaj1098/KDD-COVID19/blob/main/results.PNG
+
 Given the relatively small sample size of our dataset, coming in at 2959 data samples, we believe that the time each model takes to fit the training data is irrelevant. Focussing solely on performance, the aforementioned coefficient of determination seems to be a perfectly valid estimator of a model's performance, all by itself.
 
 Now, amongst the 6 models tested here, the simpler, linear, models do not score particularly well, averaging a score of 0.6 approximately, this tells us that the data maybe too complex and might require more models that are better equiped to deal with that complexity, thus we selected 4 models namely, RandomForestRegressor, ExtraTreesRegressor, RadientBoostingRegressor, and HistGradientBoostingRegressor.
